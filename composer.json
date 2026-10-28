@@ -1,0 +1,9 @@
+{
+  "name": "carebridge/unified-healthcare-platform",
+  "description": "Development MVP for a unified patient and healthcare-provider platform",
+  "type": "project",
+  "require": {
+    "php": ">=8.1",
+    "phpmailer/phpmailer": "^6.9"
+  }
+}
